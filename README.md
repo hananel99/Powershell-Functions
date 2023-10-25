@@ -1,6 +1,6 @@
 # Powershell Functions
 Welcome to my Powershell Functions Repo! 
-My goal is to make it easier for the Help Desk supporters
+My goal is to make it easier for the Help Desk supporters!
 Just clone the repo and run it in your powershell:
 ```powershell
 . ./functions.ps1
