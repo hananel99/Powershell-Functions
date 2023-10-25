@@ -7,6 +7,6 @@ Just clone the repo and run it in your powershell:
 ```
 Alternatively, you can define the file in $PROFILE Environment Veriable so the functions will automatically run everytime you open a powershell shell
 ```powershell
-$PROFILE = ./functions.ps1 <code>
+$PROFILE = ./functions.ps1
 ```
 I hope you will find the functions beneficial!
